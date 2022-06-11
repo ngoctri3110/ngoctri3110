@@ -21,33 +21,6 @@
 	
 </p>
 
-## <p align="center">What I use :alien:</p>
-
-<table align="center">
-  <tbody>
-    <tr valign="top">
-	<td width="20%" align="center">
-		<a href="https://code.visualstudio.com/docs">
-        <span>𝗩𝗶𝘀𝘂𝗮𝗹 𝗦𝘁𝘂𝗱𝗶𝗼 𝗖𝗼𝗱𝗲</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/visual-studio-code-1.svg">
-		</a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://developer.android.com/docs">
-        <span>𝗔𝗻𝗱𝗿𝗼𝗶𝗱 𝗦𝘁𝘂𝗱𝗶𝗼</span><br><br><br>
-        <img height="64px" src="https://cdn.worldvectorlogo.com/logos/android-logomark.svg">
-	      </a>
-      </td>
-      <td width="20%" align="center">
-	      <a href="https://git-scm.com/doc">
-        <span>𝗚𝗶𝘁</span><br><br><br>
-        <img height="64px" src="https://cdn.svgporn.com/logos/git-icon.svg">
-	      </a>
-      </td>
-    </tr>
-  </tbody>
-</table>
-
 ## <p align="center">Visitor's count :eyes:</p>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{ngoctri3110}/count.svg" alt="ngoctri3110 :: Visitor's Count" /></p>
