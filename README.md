@@ -27,12 +27,12 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/ngoctri3110/ngoctri3110/assets/85281544/a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://github.com/ngoctri3110/ngoctri3110/blob/main/assets/284971938-a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,javascript,spring,mysql,oracle,github" /><br>
+    <img src="https://skillicons.dev/icons?i=java,js,spring,mysql,mongo,github" /><br>
   <img src="https://skillicons.dev/icons?i=aws,docker,postman,eclipse" /><br>
     <img src="https://skillicons.dev/icons?i=bootstrap,html,css,git" />
 </div>
