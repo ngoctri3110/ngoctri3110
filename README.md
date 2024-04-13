@@ -27,7 +27,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github.com/ngoctri3110/ngoctri3110/blob/main/assets/284971938-a65ececb-7042-4a69-b9a6-71381c48b003" alt="giphy" />
+  <img src="https://raw.githubusercontent.com/ngoctri3110/ngoctri3110/main/assets/284971938-a65ececb-7042-4a69-b9a6-71381c48b003.gif"       alt="giphy" />
 </p>
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
