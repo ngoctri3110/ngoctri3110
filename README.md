@@ -18,7 +18,7 @@
   <a href="mailto:ngoctri3110@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="www.linkedin.com/in/tringuyenngoc" target="_blank">
+  <a href="https://www.linkedin.com/in/tringuyenngoc/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://github.com/ngoctri3110" target="_blank">
